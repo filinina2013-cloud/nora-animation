@@ -1,2 +1,11 @@
-# nora-animation
-Logo Nora
+
+  # Luxurious Logo Reveal Animation
+
+  This is a code bundle for Luxurious Logo Reveal Animation. The original project is available at https://www.figma.com/design/4GCQzAacohQmpIXwhsqbbY/Luxurious-Logo-Reveal-Animation.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
