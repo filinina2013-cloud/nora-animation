@@ -1,0 +1,2 @@
+# nora-animation
+Logo Nora
